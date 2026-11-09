@@ -1,4 +1,4 @@
-# soc-ia
+# SOC-IA
 
 Sistema de Optimización de Centros Ambulatorios basado en Inteligencia Artificial.
 Prototipo desarrollado como Trabajo Fin de Máster del Máster en Aplicaciones de
@@ -30,7 +30,7 @@ institucionales.
 |---|---|
 | `parametros.yaml` | Parámetros del generador (estándar provisorio) |
 | `ceaa_dataset.csv` | Dataset sintético de operación semanal de boxes |
-| `01_...ipynb` | Generación del dataset sintético |
+| `01_dataset_CEAA.ipynb` | Generación del dataset sintético |
 | `02_EDA_CEAA.ipynb` | Análisis exploratorio (ocupación, subutilización, brechas) |
 `g1` a `g7` (.png) | Gráficos generados por el EDA (en la raíz; se ordenarán en la Fase 4)
 
@@ -53,5 +53,5 @@ ECO-SD, corresponde a la etapa posterior al TFM.
 Python · Google Colab · PuLP · SimPy · scikit-learn · SHAP · Streamlit
 
 ## Autoría
-
-© 2026 Paula Belmar. Todos los derechos reservados Santiago, Chile
+Paula A. Belmar Z. · Santiago, Chile
+© 2026 Paula Belmar Zapata. Todos los derechos reservados 
