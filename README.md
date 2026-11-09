@@ -54,4 +54,4 @@ Python · Google Colab · PuLP · SimPy · scikit-learn · SHAP · Streamlit
 
 ## Autoría
 
-“© 2026 Paula Belmar. Todos los derechos reservados Santiago, Chile
+© 2026 Paula Belmar. Todos los derechos reservados Santiago, Chile
