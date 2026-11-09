@@ -32,7 +32,7 @@ institucionales.
 | `ceaa_dataset.csv` | Dataset sintético de operación semanal de boxes |
 | `01_...ipynb` | Generación del dataset sintético |
 | `02_EDA_CEAA.ipynb` | Análisis exploratorio (ocupación, subutilización, brechas) |
-| `figuras/` | Gráficos generados por el EDA |
+`g1` a `g7` (.png) | Gráficos generados por el EDA (en la raíz; se ordenarán en la Fase 4)
 
 ## Hoja de ruta
 
